@@ -1,3 +1,11 @@
+<style>
+    @media (prefers-color-scheme: dark) {
+        html {
+            filter: invert(90%) brightness(75%);
+        }
+    }
+</style>
+
 Welcome. :-)
 
 * [Search Picker](search-picker/)  
