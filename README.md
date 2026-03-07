@@ -1,6 +1,9 @@
 <style>
     @media (prefers-color-scheme: dark) {
         html {
+            background-color: black;
+        }
+        body {
             filter: invert(90%) brightness(75%);
         }
     }
